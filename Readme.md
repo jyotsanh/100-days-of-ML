@@ -23,6 +23,7 @@ Over the course of this challenge, I will cover a range of topics in machine lea
 - Data preprocessing and cleaning
 - Data visualization
 - Regression and classification models
+- Gradient Descent
 - Curse Dimensionality.
 - Regularization
 - Model evaluation and selection
